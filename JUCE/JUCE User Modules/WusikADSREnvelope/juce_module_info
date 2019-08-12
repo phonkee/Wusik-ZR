@@ -1,0 +1,9 @@
+{
+  "id": "WusikADSREnvelope",
+  "name": "WusikADSREnvelope",
+  "version": "1.0.0",
+  "description": "Wusik ADSR Envelope using Template ready for the SIMD Instructions",
+  "website": "https://www.wusik.com",
+  "license": "GPL",
+  "include": "WusikADSREnvelope.h"
+}

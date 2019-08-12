@@ -1,0 +1,10 @@
+{
+  "id": "WScan",
+  "name": "WusikScanner",
+  "version": "1.0.0",
+  "description": "Wusik Scanner - Internal Use Only",
+  "website": "https://www.wusik.com",
+  "license": "MIT",
+  "include": "WusikScanner.h, PipedPlugin.h",
+  "compile": [ { "file": "WusikScanner.cpp", "file": "PipedPlugin.cpp" }  ]
+}

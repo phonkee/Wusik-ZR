@@ -1,0 +1,9 @@
+{
+  "id": "WusikUtils",
+  "name": "WusikUtils",
+  "version": "1.0.0",
+  "description": "Wusik Utils",
+  "website": "https://www.wusik.com",
+  "license": "MIT",
+  "include": "WusikUtils.h"
+}

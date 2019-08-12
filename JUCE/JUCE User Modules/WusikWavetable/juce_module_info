@@ -1,0 +1,9 @@
+{
+  "id": "WusikWavetable",
+  "name": "WusikWavetable",
+  "version": "1.0.0",
+  "description": "Wusik Wavetable",
+  "website": "https://www.wusik.com",
+  "license": "GPL",
+  "include": "WusikWavetable.h"
+}

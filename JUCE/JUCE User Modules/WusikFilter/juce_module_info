@@ -1,0 +1,9 @@
+{
+  "id": "WusikFilter",
+  "name": "WusikFilter",
+  "version": "1.0.0",
+  "description": "Wusik Filter",
+  "website": "https://www.wusik.com",
+  "license": "GPL",
+  "include": "WusikFilter.h"
+}

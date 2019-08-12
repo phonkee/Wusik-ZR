@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PROPERTIES>
+  <VALUE name="pluginList">
+    <KNOWNPLUGINS>
+      <PLUGIN name="mdaAmbience" descriptiveName="Ambience" active="1" top="0"
+              customName="mdaAmbience" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaAmbience.dll"
+              uid="6d646141" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaBandisto" descriptiveName="Bandisto" active="1" top="0"
+              customName="mdaBandisto" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaBandisto.dll"
+              uid="6d646144" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaBeatBox" descriptiveName="BeatBox" active="1" top="0"
+              customName="mdaBeatBox" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaBeatBox.dll"
+              uid="6d646147" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaCombo" descriptiveName="Combo" active="1" top="0" customName="mdaCombo"
+              format="VST" category="" manufacturer="mda" version="V1.0.0.0"
+              file="{ENGINEPATH}Shared\VST Plugins 64\mdaCombo.dll"
+              uid="6d646158" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaDe-ess" descriptiveName="De-ess" active="1" top="0"
+              customName="mdaDe-ess" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaDe-ess.dll"
+              uid="6d646173" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaDegrade" descriptiveName="Degrade" active="1" top="0"
+              customName="mdaDegrade" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaDegrade.dll"
+              uid="6d646143" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaDelay" descriptiveName="Delay" active="1" top="0" customName="mdaDelay"
+              format="VST" category="" manufacturer="mda" version="V1.0.0.0"
+              file="{ENGINEPATH}Shared\VST Plugins 64\mdaDelay.dll"
+              uid="6d646179" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaDetune" descriptiveName="Detune" active="1" top="0"
+              customName="mdaDetune" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaDetune.dll"
+              uid="6d646174" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaDither" descriptiveName="Dither" active="1" top="0"
+              customName="mdaDither" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaDither.dll"
+              uid="6d646164" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaDubDelay" descriptiveName="DubDelay" active="1" top="0"
+              customName="mdaDubDelay" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaDubDelay.dll"
+              uid="6d646162" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaDX10" descriptiveName="DX10" active="1" top="0" customName="mdaDX10"
+              format="VST" category="Synth" manufacturer="mda" version="V1"
+              file="{ENGINEPATH}Shared\VST Plugins 64\mdaDX10.dll"
+              uid="4d444178" isInstrument="1" fileTime="0" infoUpdateTime="0"
+              numInputs="0" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaDynamics" descriptiveName="Dynamics" active="1" top="0"
+              customName="mdaDynamics" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaDynamics.dll"
+              uid="6d64614e" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaEnvelope" descriptiveName="Envelope" active="1" top="0"
+              customName="mdaEnvelope" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaEnvelope.dll"
+              uid="6d646165" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaEPiano" descriptiveName="ePiano" active="1" top="0"
+              customName="mdaEPiano" format="VST" category="Synth" manufacturer="mda"
+              version="V1" file="{ENGINEPATH}Shared\VST Plugins 64\mdaEPiano.dll"
+              uid="4d444165" isInstrument="1" fileTime="0" infoUpdateTime="0"
+              numInputs="0" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaImage" descriptiveName="Image" active="1" top="0" customName="mdaImage"
+              format="VST" category="" manufacturer="mda" version="V1.0.0.0"
+              file="{ENGINEPATH}Shared\VST Plugins 64\mdaImage.dll"
+              uid="6d646149" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaJX10" descriptiveName="JX10" active="1" top="0" customName="mdaJX10"
+              format="VST" category="Synth" manufacturer="mda" version="V1"
+              file="{ENGINEPATH}Shared\VST Plugins 64\mdaJX10.dll"
+              uid="4d44416a" isInstrument="1" fileTime="0" infoUpdateTime="0"
+              numInputs="0" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaLeslie" descriptiveName="Leslie" active="1" top="0"
+              customName="mdaLeslie" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaLeslie.dll"
+              uid="6d646148" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaLimiter" descriptiveName="Limiter" active="1" top="0"
+              customName="mdaLimiter" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaLimiter.dll"
+              uid="6d64614c" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaLooplex" descriptiveName="Looplex" active="1" top="0"
+              customName="mdaLooplex" format="VST" category="" manufacturer="mda"
+              version="V1" file="{ENGINEPATH}Shared\VST Plugins 64\mdaLooplex.dll"
+              uid="4d44417e" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaLoudness" descriptiveName="Loudness" active="1" top="0"
+              customName="mdaLoudness" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaLoudness.dll"
+              uid="6d64616c" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaMultiBand" descriptiveName="MultiBand" active="1" top="0"
+              customName="mdaMultiBand" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaMultiBand.dll"
+              uid="6d64614d" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaOverdrive" descriptiveName="Overdrive" active="1" top="0"
+              customName="mdaOverdrive" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaOverdrive.dll"
+              uid="6d64614f" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaPiano" descriptiveName="Piano" active="1" top="0" customName="mdaPiano"
+              format="VST" category="Synth" manufacturer="mda" version="V1"
+              file="{ENGINEPATH}Shared\VST Plugins 64\mdaPiano.dll"
+              uid="4d444170" isInstrument="1" fileTime="0" infoUpdateTime="0"
+              numInputs="0" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaRePsycho!" descriptiveName="RePsycho!" active="1" top="0"
+              customName="mdaRePsycho!" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaRePsycho!.dll"
+              uid="6d646159" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaRezFilter" descriptiveName="RezFilter" active="1" top="0"
+              customName="mdaRezFilter" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaRezFilter.dll"
+              uid="6d646146" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaRingMod" descriptiveName="RingMod" active="1" top="0"
+              customName="mdaRingMod" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaRingMod.dll"
+              uid="6d646152" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaRoundPan" descriptiveName="RoundPan" active="1" top="0"
+              customName="mdaRoundPan" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaRoundPan.dll"
+              uid="6d646150" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaShepard" descriptiveName="Shepard" active="1" top="0"
+              customName="mdaShepard" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaShepard.dll"
+              uid="6d646168" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaSplitter" descriptiveName="Splitter" active="1" top="0"
+              customName="mdaSplitter" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaSplitter.dll"
+              uid="6d646137" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaStereo" descriptiveName="Stereo" active="1" top="0"
+              customName="mdaStereo" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaStereo.dll"
+              uid="6d646153" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaSubSynth" descriptiveName="SubSynth" active="1" top="0"
+              customName="mdaSubSynth" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaSubSynth.dll"
+              uid="6d646142" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaTalkBox" descriptiveName="TalkBox" active="1" top="0"
+              customName="mdaTalkBox" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaTalkBox.dll"
+              uid="6d646126" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaTestTone" descriptiveName="TestTone" active="1" top="0"
+              customName="mdaTestTone" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaTestTone.dll"
+              uid="6d646154" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaThruZero" descriptiveName="ThruZero" active="1" top="0"
+              customName="mdaThruZero" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaThruZero.dll"
+              uid="6d64615a" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaTracker" descriptiveName="Tracker" active="1" top="0"
+              customName="mdaTracker" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaTracker.dll"
+              uid="6d64614a" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaTransient" descriptiveName="Transient" active="1" top="0"
+              customName="mdaTransient" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaTransient.dll"
+              uid="6d64614b" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaVocInput" descriptiveName="VocInput" active="1" top="0"
+              customName="mdaVocInput" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaVocInput.dll"
+              uid="6d646133" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="mdaVocoder" descriptiveName="Vocoder" active="1" top="0"
+              customName="mdaVocoder" format="VST" category="" manufacturer="mda"
+              version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\mdaVocoder.dll"
+              uid="6d646176" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="Reverb DX Light" descriptiveName="DX Reverb Light" active="1"
+              top="0" customName="Reverb DX Light" format="VST" category="Effect"
+              manufacturer="ANWIDA Soft" version="V3.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\Reverb DX Light.dll"
+              uid="6478726c" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="Studio Verb Echo" descriptiveName="MVerb Echo" active="1"
+              top="0" customName="Studio Verb Echo" format="VST" category=""
+              manufacturer="Wusik Dot Com" version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\Studio Verb Echo.dll"
+              uid="57235234" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="Studio Verb Lite" descriptiveName="MVerb Lite" active="1"
+              top="0" customName="Studio Verb Lite" format="VST" category=""
+              manufacturer="Wusik Dot Com" version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\Studio Verb Lite.dll"
+              uid="57235232" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+      <PLUGIN name="Studio Verb Quad" descriptiveName="MVerb Quad" active="1"
+              top="0" customName="Studio Verb Quad" format="VST" category=""
+              manufacturer="Wusik Dot Com" version="V1.0.0.0" file="{ENGINEPATH}Shared\VST Plugins 64\Studio Verb Quad.dll"
+              uid="57235233" isInstrument="0" fileTime="0" infoUpdateTime="0"
+              numInputs="2" numOutputs="2" isShell="0" is32Bits="0"/>
+    </KNOWNPLUGINS>
+  </VALUE>
+</PROPERTIES>

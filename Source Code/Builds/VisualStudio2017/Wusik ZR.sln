@@ -1,0 +1,65 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2017
+
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wusik ZR - Standalone Plugin", "Wusik ZR_StandalonePlugin.vcxproj", "{B03615A4-53F7-5BBB-0727-41B022DDAC28}"
+	ProjectSection(ProjectDependencies) = postProject
+		{66F8EBF6-9B03-59D8-9B76-FC75F93136EB} = {66F8EBF6-9B03-59D8-9B76-FC75F93136EB}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wusik ZR - VST", "Wusik ZR_VST.vcxproj", "{7AD35EE5-6C59-DB67-A3E1-7B63A3893A88}"
+	ProjectSection(ProjectDependencies) = postProject
+		{66F8EBF6-9B03-59D8-9B76-FC75F93136EB} = {66F8EBF6-9B03-59D8-9B76-FC75F93136EB}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wusik ZR - VST3", "Wusik ZR_VST3.vcxproj", "{D34BCE57-A708-94F1-9905-30D78C76B639}"
+	ProjectSection(ProjectDependencies) = postProject
+		{66F8EBF6-9B03-59D8-9B76-FC75F93136EB} = {66F8EBF6-9B03-59D8-9B76-FC75F93136EB}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wusik ZR - Shared Code", "Wusik ZR_SharedCode.vcxproj", "{66F8EBF6-9B03-59D8-9B76-FC75F93136EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+		Release|Win32 = Release|Win32
+		Debug|Win32 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD35EE5-6C59-DB67-A3E1-7B63A3893A88}.Debug|x64.ActiveCfg = Debug|x64
+		{7AD35EE5-6C59-DB67-A3E1-7B63A3893A88}.Debug|x64.Build.0 = Debug|x64
+		{7AD35EE5-6C59-DB67-A3E1-7B63A3893A88}.Release|x64.ActiveCfg = Release|x64
+		{7AD35EE5-6C59-DB67-A3E1-7B63A3893A88}.Release|x64.Build.0 = Release|x64
+		{7AD35EE5-6C59-DB67-A3E1-7B63A3893A88}.Release|Win32.ActiveCfg = Release|Win32
+		{7AD35EE5-6C59-DB67-A3E1-7B63A3893A88}.Release|Win32.Build.0 = Release|Win32
+		{7AD35EE5-6C59-DB67-A3E1-7B63A3893A88}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7AD35EE5-6C59-DB67-A3E1-7B63A3893A88}.Debug|Win32.Build.0 = Debug|Win32
+		{D34BCE57-A708-94F1-9905-30D78C76B639}.Debug|x64.ActiveCfg = Debug|x64
+		{D34BCE57-A708-94F1-9905-30D78C76B639}.Debug|x64.Build.0 = Debug|x64
+		{D34BCE57-A708-94F1-9905-30D78C76B639}.Release|x64.ActiveCfg = Release|x64
+		{D34BCE57-A708-94F1-9905-30D78C76B639}.Release|x64.Build.0 = Release|x64
+		{D34BCE57-A708-94F1-9905-30D78C76B639}.Release|Win32.ActiveCfg = Release|Win32
+		{D34BCE57-A708-94F1-9905-30D78C76B639}.Release|Win32.Build.0 = Release|Win32
+		{D34BCE57-A708-94F1-9905-30D78C76B639}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D34BCE57-A708-94F1-9905-30D78C76B639}.Debug|Win32.Build.0 = Debug|Win32
+		{B03615A4-53F7-5BBB-0727-41B022DDAC28}.Debug|x64.ActiveCfg = Debug|x64
+		{B03615A4-53F7-5BBB-0727-41B022DDAC28}.Debug|x64.Build.0 = Debug|x64
+		{B03615A4-53F7-5BBB-0727-41B022DDAC28}.Release|x64.ActiveCfg = Release|x64
+		{B03615A4-53F7-5BBB-0727-41B022DDAC28}.Release|x64.Build.0 = Release|x64
+		{B03615A4-53F7-5BBB-0727-41B022DDAC28}.Release|Win32.ActiveCfg = Release|Win32
+		{B03615A4-53F7-5BBB-0727-41B022DDAC28}.Release|Win32.Build.0 = Release|Win32
+		{B03615A4-53F7-5BBB-0727-41B022DDAC28}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B03615A4-53F7-5BBB-0727-41B022DDAC28}.Debug|Win32.Build.0 = Debug|Win32
+		{66F8EBF6-9B03-59D8-9B76-FC75F93136EB}.Debug|x64.ActiveCfg = Debug|x64
+		{66F8EBF6-9B03-59D8-9B76-FC75F93136EB}.Debug|x64.Build.0 = Debug|x64
+		{66F8EBF6-9B03-59D8-9B76-FC75F93136EB}.Release|x64.ActiveCfg = Release|x64
+		{66F8EBF6-9B03-59D8-9B76-FC75F93136EB}.Release|x64.Build.0 = Release|x64
+		{66F8EBF6-9B03-59D8-9B76-FC75F93136EB}.Release|Win32.ActiveCfg = Release|Win32
+		{66F8EBF6-9B03-59D8-9B76-FC75F93136EB}.Release|Win32.Build.0 = Release|Win32
+		{66F8EBF6-9B03-59D8-9B76-FC75F93136EB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{66F8EBF6-9B03-59D8-9B76-FC75F93136EB}.Debug|Win32.Build.0 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

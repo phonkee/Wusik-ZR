@@ -1,0 +1,1 @@
+Copyright (C) 2019 William (Guilherme) Kalfelz @ Wusik Dot Com

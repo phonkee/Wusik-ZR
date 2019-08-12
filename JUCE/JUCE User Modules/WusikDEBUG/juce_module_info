@@ -1,0 +1,9 @@
+{
+  "id": "WusikDEBUG",
+  "name": "WusikDEBUG",
+  "version": "1.0.0",
+  "description": "Wusik Debug Window",
+  "website": "https://www.wusik.com",
+  "license": "GPL",
+  "include": "WusikDEBUG.h"
+}

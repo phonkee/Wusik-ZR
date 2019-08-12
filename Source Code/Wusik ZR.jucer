@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="MH3gLD" name="Wusik ZR" projectType="audioplug" jucerVersion="5.4.3"
+              version="0.01" companyName="Wusik Dot Com" companyCopyright="2019"
+              companyWebsite="www.Wusik.com" reportAppUsage="0" pluginFormats="buildStandalone,buildVST,buildVST3"
+              pluginCharacteristicsValue="pluginIsSynth,pluginWantsMidiIn"
+              pluginName="Wusik ZR" pluginDesc="Wavetable Synth" pluginManufacturer="Wusik Dot Com"
+              pluginManufacturerCode="Wusk" pluginCode="xzxz" pluginChannelConfigs="{0,2}">
+  <MAINGROUP id="ILgv6m" name="Wusik ZR">
+    <GROUP id="{27F7418A-73F3-EAC0-8151-488B579E4B77}" name="Source">
+      <FILE id="CzOKKg" name="Logo W Apenas Square.png" compile="0" resource="1"
+            file="Source/Logo W Apenas Square.png"/>
+      <FILE id="svDqP0" name="Plugins List Wusik Engine 32.xml" compile="0"
+            resource="1" file="Source/Plugins List Wusik Engine 32.xml"/>
+      <FILE id="F5vPCM" name="Plugins List Wusik Engine.xml" compile="0"
+            resource="1" file="Source/Plugins List Wusik Engine.xml"/>
+      <FILE id="juBX3X" name="WAudioDeviceSelectorComponent.cpp" compile="1"
+            resource="0" file="Source/WAudioDeviceSelectorComponent.cpp"/>
+      <FILE id="snYMxd" name="WAudioDeviceSelectorComponent.h" compile="0"
+            resource="0" file="Source/WAudioDeviceSelectorComponent.h"/>
+      <FILE id="bZ4VWB" name="StandaloneFilter.cpp" compile="1" resource="0"
+            file="Source/StandaloneFilter.cpp"/>
+      <FILE id="AUykTC" name="StandaloneFilterWindow.h" compile="0" resource="0"
+            file="Source/StandaloneFilterWindow.h"/>
+      <FILE id="xxSZLA" name="Knob Component.cpp" compile="1" resource="0"
+            file="Source/Knob Component.cpp"/>
+      <FILE id="JXxUCY" name="Interface.cpp" compile="1" resource="0" file="Source/Interface.cpp"/>
+      <FILE id="XsXwz9" name="Wave Banks.cpp" compile="1" resource="0" file="Source/Wave Banks.cpp"/>
+      <FILE id="lA2z6K" name="Sequencer.h" compile="0" resource="0" file="Source/Sequencer.h"/>
+      <FILE id="HBhUWq" name="DataStructure.cpp" compile="1" resource="0"
+            file="Source/DataStructure.cpp"/>
+      <FILE id="njEDsj" name="DataStructure.h" compile="0" resource="0" file="Source/DataStructure.h"/>
+      <FILE id="yBoI9m" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="W4BcFV" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="BiuuCg" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="jKQrKR" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <EXPORTFORMATS>
+    <VS2017 targetFolder="Builds/VisualStudio2017" smallIcon="CzOKKg" bigIcon="CzOKKg"
+            windowsTargetPlatformVersion="8.1" extraDefs="JUCE_USE_CUSTOM_PLUGIN_STANDALONE_APP=1">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" binaryPath="d:\Vstplugins" useRuntimeLibDLL="0"
+                       targetName="Wusik ZR 64" libraryPath="d:\Work Ready\ASIOSDK2.3.2\common"
+                       headerPath="d:\Work Ready\ASIOSDK2.3.2\common"/>
+        <CONFIGURATION isDebug="0" name="Release" binaryPath="d:\Vstplugins" linkTimeOptimisation="0"
+                       useRuntimeLibDLL="0" targetName="Wusik ZR 64" libraryPath="d:\Work Ready\ASIOSDK2.3.2\common"
+                       headerPath="d:\Work Ready\ASIOSDK2.3.2\common"/>
+        <CONFIGURATION isDebug="0" name="Release" binaryPath="d:\Vstplugins" linkTimeOptimisation="0"
+                       useRuntimeLibDLL="0" targetName="Wusik ZR 32" winArchitecture="Win32"
+                       libraryPath="d:\Work Ready\ASIOSDK2.3.2\common" headerPath="d:\Work Ready\ASIOSDK2.3.2\common"/>
+        <CONFIGURATION isDebug="1" name="Debug" binaryPath="d:\Vstplugins" useRuntimeLibDLL="0"
+                       targetName="Wusik ZR 32" winArchitecture="Win32" libraryPath="d:\Work Ready\ASIOSDK2.3.2\common"
+                       headerPath="d:\Work Ready\ASIOSDK2.3.2\common"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../JUCE 5/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../JUCE 5/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../JUCE 5/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../JUCE 5/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../JUCE 5/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../JUCE 5/modules"/>
+        <MODULEPATH id="juce_core" path="../JUCE 5/modules"/>
+        <MODULEPATH id="juce_cryptography" path="../JUCE 5/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../JUCE 5/modules"/>
+        <MODULEPATH id="juce_events" path="../JUCE 5/modules"/>
+        <MODULEPATH id="juce_graphics" path="../JUCE 5/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../JUCE 5/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../JUCE 5/modules"/>
+        <MODULEPATH id="juce_opengl" path="../JUCE 5/modules"/>
+        <MODULEPATH id="WusikUtils" path="../JUCE 5 User Modules"/>
+        <MODULEPATH id="WusikSIMD" path="../JUCE 5 User Modules"/>
+        <MODULEPATH id="WusikADSREnvelope" path="../JUCE 5 User Modules"/>
+        <MODULEPATH id="WusikWavetable" path="../JUCE 5 User Modules"/>
+        <MODULEPATH id="juce_dsp" path="../JUCE 5/modules"/>
+        <MODULEPATH id="WusikDEBUG" path="../JUCE 5 User Modules"/>
+        <MODULEPATH id="WusikFilter" path="../JUCE 5 User Modules"/>
+        <MODULEPATH id="WusikScanner" path="../JUCE 5 User Modules"/>
+        <MODULEPATH id="WPImage" path="../JUCE 5 User Modules"/>
+      </MODULEPATHS>
+    </VS2017>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_cryptography" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_opengl" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="WPImage" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="WusikADSREnvelope" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="WusikDEBUG" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="WusikFilter" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="WusikScanner" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="WusikSIMD" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="WusikUtils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="WusikWavetable" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+  <LIVE_SETTINGS>
+    <WINDOWS/>
+  </LIVE_SETTINGS>
+  <JUCEOPTIONS JUCE_VST3_CAN_REPLACE_VST2="0" JUCE_STRICT_REFCOUNTEDPOINTER="1"
+               JUCE_ASIO="1" JUCE_WASAPI="1" JUCE_PLUGINHOST_VST="1" JUCE_PLUGINHOST_VST3="1"/>
+</JUCERPROJECT>

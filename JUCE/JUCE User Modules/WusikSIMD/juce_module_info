@@ -1,0 +1,9 @@
+{
+  "id": "WusikSIMD",
+  "name": "WusikSIMD",
+  "version": "1.0.0",
+  "description": "Wusik SSE and AVX SIMD Processing",
+  "website": "https://www.wusik.com",
+  "license": "GPL",
+  "include": "WusikSIMD.h"
+}

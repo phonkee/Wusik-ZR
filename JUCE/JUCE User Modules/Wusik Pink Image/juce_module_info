@@ -1,0 +1,9 @@
+{
+  "id": "WPImage",
+  "name": "Wusik Pink Image",
+  "version": "1.0.0",
+  "description": "Creates multiple images from a single image using pink-lines to determinate where to cut.",
+  "website": "https://www.wusik.com",
+  "license": "Open-Source",
+  "include": "Wusik Pink Image.h"
+}
